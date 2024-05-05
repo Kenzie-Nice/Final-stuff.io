@@ -1,13 +1,10 @@
-<<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us</title>
-    <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* Your existing CSS styles */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -110,12 +107,10 @@
         <textarea id="message" name="message" rows="4" cols="50">hello</textarea><br>
         <button type="submit">Submit</button>
     </div>
-
-    <!-- Your existing footer -->
     <ul>
         <li> Home <a href="https://kenzie-nice.github.io/Final_Page_At_Last.io/">Home</a></li>
-        <li>Contact Us<a href="https://kenzie-nice.github.io/Contact-Page.io/">Contact Us!</a></li>
-        <li>About Us<a href="https://kenzie-nice.github.io/About_us.io/">About Us!</a></li>
+        <li>Contact Us<a href="https://kenzie-nice.github.io/Final-stuff.io/">Contact Us!</a></li>
+        <li>About Us<a href="https://kenzie-nice.github.io/FinalAbout.io/">About Us!</a></li>
     </ul>
 </body>
 </html>
